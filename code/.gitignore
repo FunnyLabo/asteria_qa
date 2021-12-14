@@ -1,0 +1,8 @@
+### Django
+*.log
+*.pot
+*.pyc
+config/__pycache__/
+app/migrations/__pycache__/
+.env
+db.sqlite3
